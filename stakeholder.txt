@@ -1,0 +1,8 @@
+customer
+stores
+restaurants
+clinics
+medical centers
+google map
+sponser 
+team
