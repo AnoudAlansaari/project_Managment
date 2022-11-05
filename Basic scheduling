@@ -1,0 +1,5 @@
+- When is the delivery date ?
+* 19 days  (critical path: A, B, D, G, H = 19 )
+
+- Which task can be delay without delaying the schedule?
+* C, E, F
